@@ -1,42 +1,5 @@
-## Team Name \<Your Team Name> - \<Your Project Type(App/Web)>
+# Team Name \DevKnight - \DevZone(Web)
 
-The participants are required to fork this repository and create a public Github repository under their own username (Single repository per team). *Clone the repo on your local system and build on top of that*
 
-The following created sections in this README.md need to be duly filled, highlighting the denoted points for the solution/implementation. 
-
-**Please feel free to create further sub-sections in this markdown.** The idea is to understand all the particulars of your solution in a singular document.
-
-### Solution Description
-
-Explain your solution to the problem in detail here.
-
-#### Architecture Diagram
-
-Affix an image of the flow diagram/architecture diagram of the solution
-
-#### Technical Description
-
-An overview of:
-* What technologies/versions were used
-
-* Setup/Installations required to run the solution
-
-* Instructions to run the submitted code
-
-### Screenshots
-Affix the relevant screenshots of the developed project here.
-
-### Demonstration Video 
-Share link of your application demostration video. 
-
-### Team Members
-List of team member names and email IDs with their contributions.
-|Member Name|Email|Contribution|
-|-----------|-----|------------|
-|Member 1|mem1@example.com|Something important|
-|Member 2|mem2@example.com|Something important|
-|Member 3|mem3@example.com|Something important|
-|Member 4|mem4@example.com|Something important|
-
-### References
-Affix links to the online tools/repositories/blogs etc., which helped you along the development of the project.
+## Solution Description / Inspiration ✨
+Many students face issues while learing and exploring topics in Computer Sciene field. They dont know about resources and events which can help them to explore and learn about various tech skills. Here comes DevZone to help. DevZone is a platform where studetns can add resources to help other folks. It also has a chatbot with speech recognition which helps to solve general queries. Devzone is a more then a platform its a communtiy where students can make new connections with another students through our video chat feature which will help them to collaborate with each other for a hackathon, personal project, etc.
