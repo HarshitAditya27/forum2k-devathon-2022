@@ -87,9 +87,15 @@ npm install express
   ```sh
 npm install mongoose 
 ``` 
-  **Step 7**: Go to Applicaton Folder and move all the contents of it except the DevZone Video Chat App folder to the forum2k-devathon-2022 local directory.
+  **Step 7**: Go to Applicaton Folder and move all the contents of it (public, Procfile, index.js) except the DevZone Video Chat App folder to the forum2k-devathon-2022 local directory.
   
- **Step 8**: Go to forum2k-devathon-2022 local directory. Run node index.js. This will start the project in your local machine 🖥️. 
+ **Step 8**: Go to forum2k-devathon-2022 local directory. Run node index.js from your terminal. This will start the project in your local machine 🖥️. 
+  
+  ```sh
+ node index.js
+```  
+
+ **Step 9**: Go to localhost 3000 to. 
   
   ```sh
  http://localhost:3000/
