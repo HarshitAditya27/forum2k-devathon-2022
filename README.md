@@ -1,6 +1,6 @@
 # Team Name \DevKnight - \DevZone(Web)
 
-Deployed Link: devszone.herokuapp.com
+Deployed Link: https://devszone.herokuapp.com/
 
 ![Screenshot (2103)](https://user-images.githubusercontent.com/71604531/153017463-9062e2d0-fb4a-4e37-8065-ec0736249f27.png)
 
