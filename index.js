@@ -39,6 +39,12 @@ app.get("/", (req, res) => {
         "Allow-access-Allow-Origin": '*'
     })
     return res.sendFile(__dirname + "/index.html")
-}).listen(port, () => {
+})
+
+app.get("/fetch", (req, res) => {
+    res.sendFile(__dirname + '/done.html')
+})
+
+.listen(port, () => {
     console.log(`Server is running at ${port}`)
 })
